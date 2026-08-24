@@ -1,0 +1,11 @@
+.rodape {
+  padding: 1.25rem 2rem;
+  background-color: #0f172a;
+  color: #f8fafc;
+  text-align: center;
+}
+
+.texto {
+  margin: 0;
+  font-size: 0.9rem;
+}
