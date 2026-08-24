@@ -22,4 +22,4 @@ RM: 568780
 
 ## Link do projeto no GitHub
 
-[URL_DO_REPOSITORIO](https://github.com/seu-usuario/cp4-componentizacao)
+[URL_DO_REPOSITORIO](https://github.com/cauabertini/Cp4-Front-End.git)

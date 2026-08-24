@@ -24,7 +24,7 @@ const alunos: Aluno[] = [
 function App() {
   return (
     <div className={styles.app}>
-      <Cabecalho titulo={TITULO_PAGINA} logo="/icons.svg" />
+      <Cabecalho titulo={TITULO_PAGINA} logo="/logo.svg" />
       <Conteudo alunos={alunos} />
       <Rodape texto="© 2026 Turma 1TDSPI - Front-End Design Engineering" />
     </div>
